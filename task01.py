@@ -1,5 +1,4 @@
 # Write a Python script to display the various Date Time formats.
-
 # Current date and time
 # Current year
 # Month of year
